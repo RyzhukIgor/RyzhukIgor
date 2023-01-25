@@ -6,7 +6,7 @@
 Я в соцсетях:
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://vk.cc/c3iFBT)" alt="VK"/>
+    <img src="[[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://vk.cc/c3iFBT)](https://icons8.ru/icon/101137/vk-в-круге)" alt="VK"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
