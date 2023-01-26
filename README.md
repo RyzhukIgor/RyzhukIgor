@@ -32,7 +32,7 @@
 	<img width = 240 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RyzhukIgor&theme=github_dark"/>
 </div>
 
-[![codewars](https://www.codewars.com/users/username=RyzhukIgor/badges/small)](https://www.codewars.com/users/RyzhukIgor) 
+[![codewars](https://www.codewars.com/users/RyzhukIgor/badges/small)](https://www.codewars.com/users/RyzhukIgor) 
 
 
 
