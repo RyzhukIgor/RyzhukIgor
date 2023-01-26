@@ -6,7 +6,7 @@
 Я в соцсетях:
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img width = 30 height = 30 src="https://simpleicons.org/icons/vk.svg" style="color: #fff" alt="VK"/>
+    <img width = 30 height = 30 src="https://ucf9d3a25a644a8c6640671a5585.previews.dropboxusercontent.com/p/thumb/AByGidiFnZuDjo4c-RH3PHos7by4b7qq7Jrb4OrWwI3CsDYAYTHuP4XkbImiMiuBtowb774zLx_DFRyKxroDTLDbCrNzie71Ybpwst1SWq2rxHvk18CJSLUz6egKqq9CWft8q9EXbfg33zzeCCFb01oqzLLLuo_asq3WuUFSnZxM_wIKyTFUsasI1XESbm-sJ0iUL0F9ZGFQEQFOgyah51CXaiW7HbqBZystUEBEqx0tKRw-3qWrow79mC2TF7mkqxsxir2r1SEH15AF1EPK9jruM9n8iihY60_xn_o51V01uNbEqJdxYAZZXQVQdaw2e2qFxCR47LUChDCsrruCFYKSZXjrRYp51vY0Ljoo7Y6xNOK8J4USjPCsDK7SCyyJz4E/p.png?size=512x512&size_mode=1" alt="VK"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
