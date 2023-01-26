@@ -22,6 +22,7 @@
     <img width = 35 height = 35  src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" alt="CSS"/>
     <img width = 30 height = 30 src="https://cdn-icons-png.flaticon.com/128/875/875209.png" alt="REACT"/>
     <img width = 30 height = 30 src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JS"/>
+    <img width = 30 height = 30 src="https://cdn-icons-png.flaticon.com/128/4494/4494740.png" alt="GIT"/>
 </div> 
 
 
