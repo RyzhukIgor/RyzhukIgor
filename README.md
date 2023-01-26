@@ -19,7 +19,7 @@
 <p>:trophy: Мой стек</p>  
 <div id="badges">
     <img width = 30 height = 30 src="https://cdn-icons-png.flaticon.com/128/174/174854.png" alt="HTML"/>
-    <img width = 50 height = 50  src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" alt="CSS"/>
+    <img width = 40 height = 40  src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" alt="CSS"/>
     <img width = 30 height = 30 src="https://cdn-icons-png.flaticon.com/128/875/875209.png" alt="REACT"/>
     <img width = 30 height = 30 src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JS"/>
 </div> 
