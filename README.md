@@ -29,7 +29,7 @@
 ### Моя статистика
 <div id="stat" align="start" >
 	<img width = 500 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyzhukIgor&theme=github_dark"/>
-	<img width = 500  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RyzhukIgor&theme=github_dark"/>
+	<img width = 250  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RyzhukIgor&theme=github_dark"/>
 </div>
 
 
