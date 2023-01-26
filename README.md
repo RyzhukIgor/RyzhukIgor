@@ -12,7 +12,7 @@
     <img width = 30 height = 30  src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="instagramm"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img width = 30 height = 30 src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" alt="telegram"/>
   </a>
 </div>
 
