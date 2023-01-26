@@ -27,8 +27,8 @@
 </div>
 
 ### Моя статистика
-<div id="stat" align="start" display="flex">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyzhukIgor&theme=github_dark"/>
+<div id="stat" align="start" >
+	<img width = 100 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyzhukIgor&theme=github_dark"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RyzhukIgor&theme=github_dark"/>
 </div>
 
