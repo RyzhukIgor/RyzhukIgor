@@ -14,6 +14,8 @@
   <a href="https://t.me/Igoreviga">
     <img width = 30 height = 30 src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" alt="telegram"/>
   </a>
-</div>
+</div>  
+<p>:trophy: Мой стек</p>  
+
 
 
