@@ -31,8 +31,8 @@
 	<img width = 500 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyzhukIgor&theme=github_dark"/>
 	<img width = 240 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RyzhukIgor&theme=github_dark"/>
 </div>
-[![codewars](https://www.codewars.com/users/RyzhukIgor/badges/large)](https://www.codewars.com/users/RyzhukIgor)   
 
+[![codewars](https://www.codewars.com/users/RyzhukIgor/badges/small)](https://www.codewars.com/users/RyzhukIgor) 
 
 
 
