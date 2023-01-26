@@ -17,6 +17,11 @@
 </div> 
 
 <p>:trophy: Мой стек</p>  
+<div id="badges">
+    <img width = 30 height = 30 src="https://uce737894fd6aa1b18422da27d40.previews.dropboxusercontent.com/p/thumb/AByTV0Uio9tQmDew4CGEbp15KdGOpLc7ISh82J101XjBwn1NNAlyDSNoxu1D-Z3wWaJHXleoyna8wdvFhFjDq5jhBhK1huHzkHj-fRpfPfS3-36K2PuYJNQxJzGoEezZWEJJIYhWsXA5bRsFaD0OG8iqxg2fjqxpUl1OVAfl0i1JlhXdYXGD03IwGO7IdIytEZUxnYsrV0NiL41PSkaX-vTJqP7fa-arWFmtA4RJL3i2EcNNfHXJVHaggIaVDULuJsmPZzHzU8PfaUsJSr6veqHxCBF65_M1LUtfbt5DSg_rporLVQLfmB943wQF8HPb8mlA7_9bN5MZYpWK-GYvoOzWsuV9zo9eX4LgaxB_yokLUkCcqRVuxtWrGvza0bbZ62s/p.png" alt="VK"/>
+    <img width = 30 height = 30  src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="instagramm"/>
+    <img width = 30 height = 30 src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" alt="telegram"/>
+</div> 
 
 
 
