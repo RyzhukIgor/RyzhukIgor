@@ -6,7 +6,7 @@
 Я в соцсетях:
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img width = 30 height = 30 src="https://uc40b88eec83270caa2095f1c0b9.previews.dropboxusercontent.com/p/thumb/ABzw-bvE5HlKNOcq_3xWfzHrNZx5libjVaH5hgR10oO4GbMN38gXelZxvFPcxzodEDRagLwUrUeaBOQtA84Bh5zIIqy5bL-H-8LF4gD752_J0vRid3GhrCLgakUNL7G6a376OEf1upzHG-xZLw2lZey3mVE_yUISdYs4q1wyjQKuWf6ZrGol1aLfmzUJ2u_le_Pr-NM5hL6w03Kib9d0W9lvqJBwz2e_iu2bV-WPrwszXYs2cuZi3LKoAPFCbOqJbcyJYNzL_uIJX7pROFJ9xCc0A_tKqud7ZXQIreUAHOO0xJ7zu2sYMudrtSFqQeti4qYCWAVPLdIWEWHqugMZmctF8QKFqgFKaFxKjcLVtLaBFrCiPP6ExOHyFj_BVj1EBaw/p.jpeg" alt="VK"/>
+    <img width = 30 height = 30 src="https://uce737894fd6aa1b18422da27d40.previews.dropboxusercontent.com/p/thumb/AByTV0Uio9tQmDew4CGEbp15KdGOpLc7ISh82J101XjBwn1NNAlyDSNoxu1D-Z3wWaJHXleoyna8wdvFhFjDq5jhBhK1huHzkHj-fRpfPfS3-36K2PuYJNQxJzGoEezZWEJJIYhWsXA5bRsFaD0OG8iqxg2fjqxpUl1OVAfl0i1JlhXdYXGD03IwGO7IdIytEZUxnYsrV0NiL41PSkaX-vTJqP7fa-arWFmtA4RJL3i2EcNNfHXJVHaggIaVDULuJsmPZzHzU8PfaUsJSr6veqHxCBF65_M1LUtfbt5DSg_rporLVQLfmB943wQF8HPb8mlA7_9bN5MZYpWK-GYvoOzWsuV9zo9eX4LgaxB_yokLUkCcqRVuxtWrGvza0bbZ62s/p.png" alt="VK"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
