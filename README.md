@@ -6,7 +6,7 @@
 Я в соцсетях:
 <div id="badges">
   <a href="https://vk.com/igoreviga">
-    <img width = 30 height = 30 src="https://uce737894fd6aa1b18422da27d40.previews.dropboxusercontent.com/p/thumb/AByTV0Uio9tQmDew4CGEbp15KdGOpLc7ISh82J101XjBwn1NNAlyDSNoxu1D-Z3wWaJHXleoyna8wdvFhFjDq5jhBhK1huHzkHj-fRpfPfS3-36K2PuYJNQxJzGoEezZWEJJIYhWsXA5bRsFaD0OG8iqxg2fjqxpUl1OVAfl0i1JlhXdYXGD03IwGO7IdIytEZUxnYsrV0NiL41PSkaX-vTJqP7fa-arWFmtA4RJL3i2EcNNfHXJVHaggIaVDULuJsmPZzHzU8PfaUsJSr6veqHxCBF65_M1LUtfbt5DSg_rporLVQLfmB943wQF8HPb8mlA7_9bN5MZYpWK-GYvoOzWsuV9zo9eX4LgaxB_yokLUkCcqRVuxtWrGvza0bbZ62s/p.png" alt="VK"/>
+    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>HTML5</title><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z"/></svg>
   </a>
   <a href="https://instagram.com/igoreviga?igshid=NTA5ZTk1NTc=">
     <img width = 30 height = 30  src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="instagramm"/>
