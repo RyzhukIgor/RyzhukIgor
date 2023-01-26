@@ -25,7 +25,13 @@
     <img width = 30 height = 30 src="https://cdn-icons-png.flaticon.com/128/4494/4494740.png" alt="GIT"/>
    <img width = 30 height = 30 src="https://cdn-icons-png.flaticon.com/128/338/338904.png" alt="PS"/>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyzhukIgor=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Моя статистика
+<div id="stat" align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyzhukIgor&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RyzhukIgor&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RyzhukIgor&theme=github_dark"/>
+</div>
 
 
 
