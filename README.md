@@ -18,7 +18,7 @@
 
 <p>:trophy: Мой стек</p>  
 <div id="badges">
-    <img width = 30 height = 30 src="https://simpleicons.org/icons/html5.svg" alt="HTML"/>
+    <img width = 30 height = 30 src="https://cdn-icons-png.flaticon.com/128/174/174854.png" alt="HTML"/>
     <img width = 30 height = 30  src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="instagramm"/>
     <img width = 30 height = 30 src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" alt="telegram"/>
 </div> 
