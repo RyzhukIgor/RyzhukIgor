@@ -3,13 +3,10 @@
 * <p>:mortar_board: В данный момент прохожу обучение на платформе <a href="https://practicum.yandex.ru/">Яндекс Практикум</a></p>  
 * <p>:heavy_check_mark: Каждый день совершенствую свои навыки </p>
 * <p>:zap: Хочу устроиться в команду профессионалов </p>  
-Я в соцсетях:
+Связаться со мной:
 <div id="badges">
   <a href="https://vk.com/igoreviga">
-    <img width = 30 height = 30 src="https://uce737894fd6aa1b18422da27d40.previews.dropboxusercontent.com/p/thumb/AByTV0Uio9tQmDew4CGEbp15KdGOpLc7ISh82J101XjBwn1NNAlyDSNoxu1D-Z3wWaJHXleoyna8wdvFhFjDq5jhBhK1huHzkHj-fRpfPfS3-36K2PuYJNQxJzGoEezZWEJJIYhWsXA5bRsFaD0OG8iqxg2fjqxpUl1OVAfl0i1JlhXdYXGD03IwGO7IdIytEZUxnYsrV0NiL41PSkaX-vTJqP7fa-arWFmtA4RJL3i2EcNNfHXJVHaggIaVDULuJsmPZzHzU8PfaUsJSr6veqHxCBF65_M1LUtfbt5DSg_rporLVQLfmB943wQF8HPb8mlA7_9bN5MZYpWK-GYvoOzWsuV9zo9eX4LgaxB_yokLUkCcqRVuxtWrGvza0bbZ62s/p.png" alt="VK"></img>
-  </a>
-  <a href="https://instagram.com/igoreviga?igshid=NTA5ZTk1NTc=">
-    <img width = 30 height = 30  src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="instagramm"/>
+    <img width = 40 height = 30 src="http://media.lpgenerator.ru/images/458259/snimok-ekrana-2020-03-26-v-074123-min.png" alt="яндекс почта"></img>
   </a>
   <a href="https://t.me/Igoreviga">
     <img width = 30 height = 30 src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" alt="telegram"/>
