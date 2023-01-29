@@ -4,13 +4,9 @@
 * <p>:heavy_check_mark: Каждый день совершенствую свои навыки </p>
 * <p>:zap: Хочу устроиться в команду профессионалов </p>  
 Связаться со мной:
-<div id="badges">
-  <a href="ig.ryzhuk@yandex.ru">
-    <img width = 40 height = 30 src="http://media.lpgenerator.ru/images/458259/snimok-ekrana-2020-03-26-v-074123-min.png" alt="яндекс почта"></img>
-  </a>
-  <a href="https://t.me/Igoreviga">
-    <img width = 30 height = 30 src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" alt="telegram"/>
-  </a>
+<p>Почта: igorryzhuk@yandex.ru</p>
+  <p>Telegram: https://t.me/Igoreviga>
+  </p>
 </div> 
 
 <p>:trophy: Мой стек</p>  
