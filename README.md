@@ -5,10 +5,7 @@
 * <p>:zap: Хочу устроиться в команду профессионалов </p>  
 Связаться со мной:
 <p>Почта: igorryzhuk@yandex.ru</p>
-  <p>Telegram: https://t.me/Igoreviga>
-  </p>
-</div> 
-
+  <p>Telegram: https://t.me/Igoreviga</p>
 <p>:trophy: Мой стек</p>  
 <div id="badges">
     <img width = 30 height = 30 src="https://cdn-icons-png.flaticon.com/128/174/174854.png" alt="HTML"/>
